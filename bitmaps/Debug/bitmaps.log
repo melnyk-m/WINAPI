@@ -1,0 +1,3 @@
+﻿  bitmaps.cpp
+D:\2курс\спро\bitmaps\bitmaps.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  bitmaps.vcxproj -> D:\2курс\спро\bitmaps\Debug\bitmaps.exe

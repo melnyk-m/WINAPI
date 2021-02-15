@@ -1,0 +1,2 @@
+D:\2курс\спро\bitmaps\Debug\bitmaps.exe
+D:\2курс\спро\bitmaps\Debug\bitmaps.pdb
